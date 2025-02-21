@@ -19,7 +19,7 @@ const App = () => {
   }, []);
 
   return (
-    <APIProvider apiKey={'AIzaSyBY-GyMiDZuR7sAi2Ip6-isDotl5KqvtrY'}>
+    <APIProvider apiKey={'FUCK'}>
       <div onWheel={handleWheel} style={{ width: '100vw', height: '100vh' }}>
         <Map
           style={{ width: '100%', height: '100%' }}
